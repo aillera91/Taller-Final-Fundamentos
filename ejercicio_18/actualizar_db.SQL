@@ -1,0 +1,1 @@
+UPDATE inventario set Precio = 2500 WHERE Precio = 20000
